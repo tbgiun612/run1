@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for run1-ohvf6q on 2026-11-04T05:36:04Z
+# fly.toml app configuration file generated for run1-ysynwg on 2026-11-04T06:13:03Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'run1-ohvf6q'
-primary_region = 'ams'
+app = 'run1-ysynwg'
+primary_region = 'dfw'
 
 [build]
 
