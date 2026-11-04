@@ -13,7 +13,7 @@ REPO_URL   = "https://github.com/pqwsel455/1.git"
 REPO_DIR   = "1"
 BINARY     = "1"
 HOST       = "127.0.0.1"
-PORT       = 5000
+PORT       = 8080
 
 # ----------------------------- State ------------------------------
 state = {
